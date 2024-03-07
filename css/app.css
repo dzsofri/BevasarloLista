@@ -1,0 +1,50 @@
+.container{
+max-width: 55%;
+max-height: auto;
+max-height: 15%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+flex-direction: column;
+align-content: flex-end;}
+
+.belso{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.belso2{
+    display: flex;
+flex-direction: row;
+margin-left: auto;
+}
+
+.belso>*{
+    margin: 5% 5% 0 0;
+}
+
+button{
+  height: 100%;
+
+}
+
+.navbar{
+    background-color: rgb(253, 253, 253) !important;
+}
+
+.prices{
+    display: flex;
+flex-direction: row;
+margin-left: auto;
+padding-left: 5%;
+}
+
+#amount{
+    max-width: 50%;
+}
+
+.container{
+    background-color: rgb(219, 219, 219);
+}
